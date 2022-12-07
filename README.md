@@ -1,2 +1,4 @@
 # Calculadora
-Calculadora simples
+Calculadora simples.
+
+:)
